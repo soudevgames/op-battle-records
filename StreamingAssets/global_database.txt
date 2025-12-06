@@ -1,0 +1,372 @@
+{
+    "heroes": [
+        {
+            "name": "Ace Yamato",
+            "iconUrl": "ace_yamato.png"
+        },
+        {
+            "name": "Admiral Kizaru",
+            "iconUrl": "admiral_kizaru.png"
+        },
+        {
+            "name": "Admiral Sengoku",
+            "iconUrl": "admiral_sengoku.png"
+        },
+        {
+            "name": "Adm Sakazuki",
+            "iconUrl": "adm_sakazuki.png"
+        },
+        {
+            "name": "Apoo",
+            "iconUrl": "apoo.png"
+        },
+        {
+            "name": "Awakening Katakuri",
+            "iconUrl": "awakening_katakuri.png"
+        },
+        {
+            "name": "Awakening Lucci",
+            "iconUrl": "awakening_lucci.png"
+        },
+        {
+            "name": "Bartolomeu",
+            "iconUrl": "bartolomeu.png"
+        },
+        {
+            "name": "Beckman",
+            "iconUrl": "beckman.png"
+        },
+        {
+            "name": "Big Mom",
+            "iconUrl": "big_mom.png"
+        },
+        {
+            "name": "Blackbeard Admiral",
+            "iconUrl": "blackbeard_admiral.png"
+        },
+        {
+            "name": "Bonney Nika",
+            "iconUrl": "bonney_nika.png"
+        },
+        {
+            "name": "Bullet",
+            "iconUrl": "bullet.png"
+        },
+        {
+            "name": "Burgess 1st Captain",
+            "iconUrl": "burgess_1st_captain.png"
+        },
+        {
+            "name": "Capone Bege",
+            "iconUrl": "capone_bege.png"
+        },
+        {
+            "name": "Captain Ace",
+            "iconUrl": "captain_ace.png"
+        },
+        {
+            "name": "Carrot",
+            "iconUrl": "carrot.png"
+        },
+        {
+            "name": "Cavendish",
+            "iconUrl": "cavendish.png"
+        },
+        {
+            "name": "Cp0 Lucci",
+            "iconUrl": "cp0_lucci.png"
+        },
+        {
+            "name": "Cross Guild Mihawk",
+            "iconUrl": "cross_guild_mihawk.png"
+        },
+        {
+            "name": "Cyborg Kuma",
+            "iconUrl": "cyborg_kuma.png"
+        },
+        {
+            "name": "Diva Uta",
+            "iconUrl": "diva_uta.png"
+        },
+        {
+            "name": "Dogstorm Catviper",
+            "iconUrl": "dogstorm_catviper.png"
+        },
+        {
+            "name": "Dragon Kaidou",
+            "iconUrl": "dragon_kaidou.png"
+        },
+        {
+            "name": "Edward Weevil",
+            "iconUrl": "edward_weevil.png"
+        },
+        {
+            "name": "Enma Zoro",
+            "iconUrl": "enma_zoro.png"
+        },
+        {
+            "name": "Female Law",
+            "iconUrl": "female_law.png"
+        },
+        {
+            "name": "Gaban Rayleigh",
+            "iconUrl": "gaban_rayleigh.png"
+        },
+        {
+            "name": "Gear 4 Luffy",
+            "iconUrl": "gear_4_luffy.png"
+        },
+        {
+            "name": "God Enel",
+            "iconUrl": "god_enel.png"
+        },
+        {
+            "name": "Gold Roger",
+            "iconUrl": "gold_roger.png"
+        },
+        {
+            "name": "Hero Garp",
+            "iconUrl": "hero_garp.png"
+        },
+        {
+            "name": "Hero Koby",
+            "iconUrl": "hero_koby.png"
+        },
+        {
+            "name": "Homies Linlin",
+            "iconUrl": "homies_linlin.png"
+        },
+        {
+            "name": "Inferno Luffy",
+            "iconUrl": "inferno_luffy.png"
+        },
+        {
+            "name": "Jack the Drought",
+            "iconUrl": "jack_the_drought.png"
+        },
+        {
+            "name": "Kaidou",
+            "iconUrl": "kaidou.png"
+        },
+        {
+            "name": "Kid Law",
+            "iconUrl": "kid_law.png"
+        },
+        {
+            "name": "King",
+            "iconUrl": "king.png"
+        },
+        {
+            "name": "Kizaru Fujitora",
+            "iconUrl": "kizaru_fujitora.png"
+        },
+        {
+            "name": "Kozuki Oden",
+            "iconUrl": "kozuki_oden.png"
+        },
+        {
+            "name": "Kuma the Cleric",
+            "iconUrl": "kuma_the_cleric.png"
+        },
+        {
+            "name": "Kuzan 10th Captain",
+            "iconUrl": "kuzan_10th_captain.png"
+        },
+        {
+            "name": "Momonosuke",
+            "iconUrl": "momonosuke.png"
+        },
+        {
+            "name": "Nami Swordmaster",
+            "iconUrl": "nami_swordmaster.png"
+        },
+        {
+            "name": "Nika Luffy",
+            "iconUrl": "nika_luffy.png"
+        },
+        {
+            "name": "Nusjuro",
+            "iconUrl": "nusjuro.png"
+        },
+        {
+            "name": "Oni Island Brook",
+            "iconUrl": "oni_island_brook.png"
+        },
+        {
+            "name": "Oni Island Chopper",
+            "iconUrl": "oni_island_chopper.png"
+        },
+        {
+            "name": "Oni Island Franky",
+            "iconUrl": "oni_island_franky.png"
+        },
+        {
+            "name": "Oni Island Hawkins",
+            "iconUrl": "oni_island_hawkins.png"
+        },
+        {
+            "name": "Oni Island Jinbe",
+            "iconUrl": "oni_island_jinbe.png"
+        },
+        {
+            "name": "Oni Island Law",
+            "iconUrl": "oni_island_law.png"
+        },
+        {
+            "name": "Oni Island Nami",
+            "iconUrl": "oni_island_nami.png"
+        },
+        {
+            "name": "Oni Island Robin",
+            "iconUrl": "oni_island_robin.png"
+        },
+        {
+            "name": "Oni Island Sanji",
+            "iconUrl": "oni_island_sanji.png"
+        },
+        {
+            "name": "Oni Island Zoro",
+            "iconUrl": "oni_island_zoro.png"
+        },
+        {
+            "name": "Oni Kid",
+            "iconUrl": "oni_kid.png"
+        },
+        {
+            "name": "Oni Usopp",
+            "iconUrl": "oni_usopp.png"
+        },
+        {
+            "name": "Queen",
+            "iconUrl": "queen.png"
+        },
+        {
+            "name": "Red Shanks",
+            "iconUrl": "red_shanks.png"
+        },
+        {
+            "name": "Ryokugyu",
+            "iconUrl": "ryokugyu.png"
+        },
+        {
+            "name": "Sabo",
+            "iconUrl": "sabo.png"
+        },
+        {
+            "name": "Sabo the Flame Emperor",
+            "iconUrl": "sabo_the_flame_emperor.png"
+        },
+        {
+            "name": "Sanji Future Island",
+            "iconUrl": "sanji_future_island.png"
+        },
+        {
+            "name": "Saturn",
+            "iconUrl": "saturn.png"
+        },
+        {
+            "name": "Sengoku Garp",
+            "iconUrl": "sengoku_garp.png"
+        },
+        {
+            "name": "Shiki",
+            "iconUrl": "shiki.png"
+        },
+        {
+            "name": "Shiryu of the Rain",
+            "iconUrl": "shiryu_of_the_rain.png"
+        },
+        {
+            "name": "Stampede Buggy",
+            "iconUrl": "stampede_buggy.png"
+        },
+        {
+            "name": "S Hawk",
+            "iconUrl": "s_hawk.png"
+        },
+        {
+            "name": "S Snake",
+            "iconUrl": "s_snake.png"
+        },
+        {
+            "name": "Tesoro",
+            "iconUrl": "tesoro.png"
+        },
+        {
+            "name": "Twin Dragons",
+            "iconUrl": "twin_dragons.png"
+        },
+        {
+            "name": "Twin Emperors",
+            "iconUrl": "twin_emperors.png"
+        },
+        {
+            "name": "Uta Knight Form",
+            "iconUrl": "uta_knight_form.png"
+        },
+        {
+            "name": "Van Augur",
+            "iconUrl": "van_augur.png"
+        },
+        {
+            "name": "Vinsmoke Sanji",
+            "iconUrl": "vinsmoke_sanji.png"
+        },
+        {
+            "name": "Wano Blackbeard",
+            "iconUrl": "wano_blackbeard.png"
+        },
+        {
+            "name": "Wano Crocodile",
+            "iconUrl": "wano_crocodile.png"
+        },
+        {
+            "name": "Wano Kuzan",
+            "iconUrl": "wano_kuzan.png"
+        },
+        {
+            "name": "Wano Marco",
+            "iconUrl": "wano_marco.png"
+        },
+        {
+            "name": "Wano Mihawk",
+            "iconUrl": "wano_mihawk.png"
+        },
+        {
+            "name": "Wano Perona",
+            "iconUrl": "wano_perona.png"
+        },
+        {
+            "name": "Wano Smoker",
+            "iconUrl": "wano_smoker.png"
+        },
+        {
+            "name": "Whitebeard Oden",
+            "iconUrl": "whitebeard_oden.png"
+        },
+        {
+            "name": "Yamato",
+            "iconUrl": "yamato.png"
+        },
+        {
+            "name": "Yamato Big Mouth",
+            "iconUrl": "yamato_big_mouth.png"
+        },
+        {
+            "name": "Young Rayleigh",
+            "iconUrl": "young_rayleigh.png"
+        },
+        {
+            "name": "Z",
+            "iconUrl": "z.png"
+        },
+        {
+            "name": "Zenith Whitebeard",
+            "iconUrl": "zenith_whitebeard.png"
+        },
+        {
+            "name": "Zoro Future Island",
+            "iconUrl": "zoro_future_island.png"
+        }
+    ]
+}

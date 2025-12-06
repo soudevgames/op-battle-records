@@ -1,0 +1,534 @@
+{
+    "entries": [
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Guigui"
+            ],
+            "playerACharacters": [
+                "Kuma (Cleric)",
+                "Burgess",
+                "Gaban&Rayleigh"
+            ],
+            "playerBCharacters": [
+                "Ryokugyu",
+                "God Enel",
+                "Admiral Sengoku"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Guigui"
+            ],
+            "playerACharacters": [
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)",
+                "Bonney (Nika)"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Kizaru&Fujitora",
+                "Beckman"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Guigui"
+            ],
+            "playerACharacters": [
+                "Uta Knight Form",
+                "Zoro (Future Island)",
+                "Blackbeard (Admiral)",
+                "Nami (Swordmaster)",
+                "Momonosuke"
+            ],
+            "playerBCharacters": [
+                "Inferno Luffy",
+                "Uta Knight Form",
+                "Burgess",
+                "Blackbeard (Admiral)",
+                "Katakuri (Awakening)"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "BRATKOO",
+                "Oliv"
+            ],
+            "playerACharacters": [
+                "Sanji (Oni Island)",
+                "Wano Marco",
+                "Robin (Oni Island)"
+            ],
+            "playerBCharacters": [
+                "Uta Knight Form",
+                "Beckman",
+                "Burgess"
+            ],
+            "winLoose": [
+                "L",
+                "W"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "BRATKOO",
+                "Oliv"
+            ],
+            "playerACharacters": [
+                "Inferno Luffy",
+                "Beckman",
+                "Twin Dragons"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Blackbeard (Admiral)",
+                "Kizaru&Fujitora"
+            ],
+            "winLoose": [
+                "L",
+                "W"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "BRATKOO",
+                "Oliv"
+            ],
+            "playerACharacters": [
+                "Kuma (Cleric)",
+                "Uta Knight Form",
+                "Twin Emperors",
+                "Blackbeard (Admiral)",
+                "Burgess"
+            ],
+            "playerBCharacters": [
+                "Inferno Luffy",
+                "Wano Marco",
+                "Chopper (Oni Island)",
+                "Sanji (Oni Island)",
+                "God Enel"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Oliv"
+            ],
+            "playerACharacters": [
+                "Kuma (Cleric)",
+                "Burgess",
+                "Gaban&Rayleigh"
+            ],
+            "playerBCharacters": [
+                "Uta Knight Form",
+                "Kizaru&Fujitora",
+                "Burgess"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Oliv"
+            ],
+            "playerACharacters": [
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)",
+                "Bonney (Nika)"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Blackbeard (Admiral)",
+                "Beckman"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Oliv"
+            ],
+            "playerACharacters": [
+                "Uta Knight Form",
+                "Zoro (Future Island)",
+                "Blackbeard (Admiral)",
+                "Nami (Swordmaster)",
+                "Momonosuke"
+            ],
+            "playerBCharacters": [
+                "Inferno Luffy",
+                "Wano Marco",
+                "Chopper (Oni Island)",
+                "Sanji (Oni Island)",
+                "God Enel"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Kuroko"
+            ],
+            "playerACharacters": [
+                "Kuma (Cleric)",
+                "Burgess",
+                "Gaban&Rayleigh"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Kuroko"
+            ],
+            "playerACharacters": [
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)",
+                "Bonney (Nika)"
+            ],
+            "playerBCharacters": [
+                "Van Augur"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Imu-Sama",
+                "Kuroko"
+            ],
+            "playerACharacters": [
+                "Uta Knight Form",
+                "Zoro (Future Island)",
+                "Blackbeard (Admiral)",
+                "Nami (Swordmaster)",
+                "Momonosuke"
+            ],
+            "playerBCharacters": [
+                "Uta Knight Form",
+                "Gaban&Rayleigh",
+                "Blackbeard (Admiral)",
+                "Beckman",
+                "Katakuri (Awakening)"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Hanmagic",
+                "Kuroko"
+            ],
+            "playerACharacters": [
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)",
+                "Bonney (Nika)"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)"
+            ],
+            "winLoose": [
+                "L",
+                "W"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Hanmagic",
+                "Kuroko"
+            ],
+            "playerACharacters": [
+                "Inferno Luffy",
+                "Kuma (Cleric)",
+                "Gaban&Rayleigh"
+            ],
+            "playerBCharacters": [
+                "Van Augur"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Hanmagic",
+                "Kuroko"
+            ],
+            "playerACharacters": [
+                "Nami (Swordmaster)",
+                "Uta Knight Form",
+                "Burgess",
+                "Kuzan (10th Captain)",
+                "Blackbeard (Admiral)"
+            ],
+            "playerBCharacters": [
+                "Uta Knight Form",
+                "Gaban&Rayleigh",
+                "Blackbeard (Admiral)",
+                "Beckman",
+                "Katakuri (Awakening)"
+            ],
+            "winLoose": [
+                "L",
+                "W"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Hanmagic",
+                "Fannystyle"
+            ],
+            "playerACharacters": [
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)",
+                "Bonney (Nika)"
+            ],
+            "playerBCharacters": [
+                "Inferno Luffy",
+                "S-Hawk",
+                "God Enel"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Hanmagic",
+                "Fannystyle"
+            ],
+            "playerACharacters": [
+                "Inferno Luffy",
+                "Kuma (Cleric)",
+                "Gaban&Rayleigh"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Sabo (Flame Emperor)",
+                "Burgess"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Hanmagic",
+                "Fannystyle"
+            ],
+            "playerACharacters": [
+                "Nami (Swordmaster)",
+                "Uta Knight Form",
+                "Burgess",
+                "Kuzan (10th Captain)",
+                "Blackbeard (Admiral)"
+            ],
+            "playerBCharacters": [
+                "Twin Dragons",
+                "Kizaru&Fujitora",
+                "Uta Knight Form",
+                "Beckman",
+                "Kid&Law"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Kuroko",
+                "Florey"
+            ],
+            "playerACharacters": [
+                "Kuma (Cleric)",
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)"
+            ],
+            "playerBCharacters": [
+                "Inferno Luffy",
+                "Kuma (Cleric)",
+                "Edward Weevil"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Kuroko",
+                "Florey"
+            ],
+            "playerACharacters": [
+                "Van Augur"
+            ],
+            "playerBCharacters": [
+                "Uta Knight Form",
+                "Beckman",
+                "Ace&Yamato"
+            ],
+            "winLoose": [
+                "L",
+                "W"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Kuroko",
+                "Florey"
+            ],
+            "playerACharacters": [
+                "Uta Knight Form",
+                "Gaban&Rayleigh",
+                "Blackbeard (Admiral)",
+                "Beckman",
+                "Katakuri (Awakening)"
+            ],
+            "playerBCharacters": [
+                "God Enel",
+                "Katakuri (Awakening)",
+                "Wano Marco",
+                "Zoro (Future Island)",
+                "Luffy (Gear 4)"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Douch",
+                "RZoro"
+            ],
+            "playerACharacters": [
+                "Kuma (Cleric)",
+                "Burgess",
+                "Gaban&Rayleigh"
+            ],
+            "playerBCharacters": [
+                "Inferno Luffy",
+                "Uta Knight Form",
+                "Beckman"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Douch",
+                "RZoro"
+            ],
+            "playerACharacters": [
+                "Kizaru&Fujitora",
+                "Yamato (Big Mouth)",
+                "Bonney (Nika)"
+            ],
+            "playerBCharacters": [
+                "Wano Luffy",
+                "Tesoro",
+                "Chopper (Oni Island)"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        },
+        {
+            "tournamentMode": 0,
+            "players": [
+                "Douch",
+                "RZoro"
+            ],
+            "playerACharacters": [
+                "Uta Knight Form",
+                "Blackbeard (Admiral)",
+                "Twin Emperors",
+                "Kid&Law",
+                "Van Augur"
+            ],
+            "playerBCharacters": [
+                "Kuma (Cleric)",
+                "Gaban&Rayleigh",
+                "Kizaru&Fujitora",
+                "Katakuri (Awakening)",
+                "Burgess"
+            ],
+            "winLoose": [
+                "W",
+                "L"
+            ]
+        }
+    ]
+}

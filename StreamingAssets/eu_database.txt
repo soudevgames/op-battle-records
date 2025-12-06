@@ -1,0 +1,389 @@
+{
+    "battles": [
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Kuma the Cleric",
+                "Burgess 1st Captain",
+                "Gaban Rayleigh"
+            ],
+            "playerBName": "Guigui",
+            "playerBTeam": [
+                "Admiral Sengoku",
+                "God Enel",
+                "Ryokugyu"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Kizaru Fujitora",
+                "Yamato Big Mouth",
+                "Bonney Nika"
+            ],
+            "playerBName": "Guigui",
+            "playerBTeam": [
+                "Beckman",
+                "Kizaru Fujitora",
+                "Kuma the Cleric"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Uta Knight Form",
+                "Zoro Future Island",
+                "Blackbeard Admiral",
+                "Nami Swordmaster",
+                "Momonosuke"
+            ],
+            "playerBName": "Guigui",
+            "playerBTeam": [
+                "Awakening Katakuri",
+                "Blackbeard Admiral",
+                "Burgess 1st Captain",
+                "Uta Knight Form",
+                "Inferno Luffy"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "BRATKOO",
+            "playerATeam": [
+                "Sanji Future Island",
+                "Wano Marco",
+                "Oni Island Robin"
+            ],
+            "playerBName": "Oliv",
+            "playerBTeam": [
+                "Burgess 1st Captain",
+                "Beckman",
+                "Uta Knight Form"
+            ],
+            "winner": 1
+        },
+        {
+            "playerAName": "BRATKOO",
+            "playerATeam": [
+                "Inferno Luffy",
+                "Beckman",
+                "Twin Dragons"
+            ],
+            "playerBName": "Oliv",
+            "playerBTeam": [
+                "Kizaru Fujitora",
+                "Blackbeard Admiral",
+                "Kuma the Cleric"
+            ],
+            "winner": 1
+        },
+        {
+            "playerAName": "BRATKOO",
+            "playerATeam": [
+                "Kuma the Cleric",
+                "Uta Knight Form",
+                "Twin Emperors",
+                "Blackbeard Admiral",
+                "Burgess 1st Captain"
+            ],
+            "playerBName": "Oliv",
+            "playerBTeam": [
+                "God Enel",
+                "Oni Island Sanji",
+                "Oni Island Chopper",
+                "Wano Marco",
+                "Inferno Luffy"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Kuma the Cleric",
+                "Burgess 1st Captain",
+                "Gaban Rayleigh"
+            ],
+            "playerBName": "Oliv",
+            "playerBTeam": [
+                "Burgess 1st Captain",
+                "Kizaru Fujitora",
+                "Uta Knight Form"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Kizaru Fujitora",
+                "Yamato Big Mouth",
+                "Bonney Nika"
+            ],
+            "playerBName": "Oliv",
+            "playerBTeam": [
+                "Beckman",
+                "Blackbeard Admiral",
+                "Kuma the Cleric"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Uta Knight Form",
+                "Zoro Future Island",
+                "Blackbeard Admiral",
+                "Nami Swordmaster",
+                "Momonosuke"
+            ],
+            "playerBName": "Oliv",
+            "playerBTeam": [
+                "God Enel",
+                "Oni Island Sanji",
+                "Oni Island Chopper",
+                "Wano Marco",
+                "Inferno Luffy"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Kuma the Cleric",
+                "Burgess 1st Captain",
+                "Gaban Rayleigh"
+            ],
+            "playerBName": "Kuroko",
+            "playerBTeam": [
+                "Yamato Big Mouth",
+                "Kizaru Fujitora",
+                "Kuma the Cleric"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Kizaru Fujitora",
+                "Yamato Big Mouth",
+                "Bonney Nika"
+            ],
+            "playerBName": "Kuroko",
+            "playerBTeam": [
+                "Van Augur"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Imu-Sama",
+            "playerATeam": [
+                "Uta Knight Form",
+                "Zoro Future Island",
+                "Blackbeard Admiral",
+                "Nami Swordmaster",
+                "Momonosuke"
+            ],
+            "playerBName": "Kuroko",
+            "playerBTeam": [
+                "Awakening Katakuri",
+                "Beckman",
+                "Blackbeard Admiral",
+                "Gaban Rayleigh",
+                "Uta Knight Form"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Hanmagic",
+            "playerATeam": [
+                "Kizaru Fujitora",
+                "Yamato Big Mouth",
+                "Bonney Nika"
+            ],
+            "playerBName": "Kuroko",
+            "playerBTeam": [
+                "Yamato Big Mouth",
+                "Kizaru Fujitora",
+                "Kuma the Cleric"
+            ],
+            "winner": 1
+        },
+        {
+            "playerAName": "Hanmagic",
+            "playerATeam": [
+                "Inferno Luffy",
+                "Kuma the Cleric",
+                "Gaban Rayleigh"
+            ],
+            "playerBName": "Kuroko",
+            "playerBTeam": [
+                "Van Augur"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Hanmagic",
+            "playerATeam": [
+                "Nami Swordmaster",
+                "Uta Knight Form",
+                "Burgess 1st Captain",
+                "Kuzan 10th Captain",
+                "Blackbeard Admiral"
+            ],
+            "playerBName": "Kuroko",
+            "playerBTeam": [
+                "Awakening Katakuri",
+                "Beckman",
+                "Blackbeard Admiral",
+                "Gaban Rayleigh",
+                "Uta Knight Form"
+            ],
+            "winner": 1
+        },
+        {
+            "playerAName": "Hanmagic",
+            "playerATeam": [
+                "Kizaru Fujitora",
+                "Yamato Big Mouth",
+                "Bonney Nika"
+            ],
+            "playerBName": "Fannystyle",
+            "playerBTeam": [
+                "God Enel",
+                "S Hawk",
+                "Inferno Luffy"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Hanmagic",
+            "playerATeam": [
+                "Inferno Luffy",
+                "Kuma the Cleric",
+                "Gaban Rayleigh"
+            ],
+            "playerBName": "Fannystyle",
+            "playerBTeam": [
+                "Burgess 1st Captain",
+                "Sabo the Flame Emperor",
+                "Kuma the Cleric"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Hanmagic",
+            "playerATeam": [
+                "Nami Swordmaster",
+                "Uta Knight Form",
+                "Burgess 1st Captain",
+                "Kuzan 10th Captain",
+                "Blackbeard Admiral"
+            ],
+            "playerBName": "Fannystyle",
+            "playerBTeam": [
+                "Kid Law",
+                "Beckman",
+                "Uta Knight Form",
+                "Kizaru Fujitora",
+                "Twin Dragons"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Kuroko",
+            "playerATeam": [
+                "Kuma the Cleric",
+                "Kizaru Fujitora",
+                "Yamato Big Mouth"
+            ],
+            "playerBName": "Florey",
+            "playerBTeam": [
+                "Edward Weevil",
+                "Kuma the Cleric",
+                "Inferno Luffy"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Kuroko",
+            "playerATeam": [
+                "Van Augur"
+            ],
+            "playerBName": "Florey",
+            "playerBTeam": [
+                "Ace Yamato",
+                "Beckman",
+                "Uta Knight Form"
+            ],
+            "winner": 1
+        },
+        {
+            "playerAName": "Kuroko",
+            "playerATeam": [
+                "Uta Knight Form",
+                "Gaban Rayleigh",
+                "Blackbeard Admiral",
+                "Beckman",
+                "Awakening Katakuri"
+            ],
+            "playerBName": "Florey",
+            "playerBTeam": [
+                "Gear 4 Luffy",
+                "Zoro Future Island",
+                "Wano Marco",
+                "Awakening Katakuri",
+                "God Enel"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Douch",
+            "playerATeam": [
+                "Kuma the Cleric",
+                "Burgess 1st Captain",
+                "Gaban Rayleigh"
+            ],
+            "playerBName": "RZoro",
+            "playerBTeam": [
+                "Beckman",
+                "Uta Knight Form",
+                "Inferno Luffy"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Douch",
+            "playerATeam": [
+                "Kizaru Fujitora",
+                "Yamato Big Mouth",
+                "Bonney Nika"
+            ],
+            "playerBName": "RZoro",
+            "playerBTeam": [
+                "Oni Island Chopper",
+                "Tesoro"
+            ],
+            "winner": 0
+        },
+        {
+            "playerAName": "Douch",
+            "playerATeam": [
+                "Uta Knight Form",
+                "Blackbeard Admiral",
+                "Twin Emperors",
+                "Kid Law",
+                "Van Augur"
+            ],
+            "playerBName": "RZoro",
+            "playerBTeam": [
+                "Burgess 1st Captain",
+                "Awakening Katakuri",
+                "Kizaru Fujitora",
+                "Gaban Rayleigh",
+                "Kuma the Cleric"
+            ],
+            "winner": 0
+        }
+    ]
+}
