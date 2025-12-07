@@ -384,6 +384,25 @@
                 "Kuma the Cleric"
             ],
             "winner": 0
+        },
+        {
+            "playerAName": "TEST_A",
+            "playerATeam": [
+                "Uta Knight Form",
+                "Blackbeard Admiral",
+                "Twin Emperors",
+                "Kid Law",
+                "Van Augur"
+            ],
+            "playerBName": "TEST_B",
+            "playerBTeam": [
+                "Burgess 1st Captain",
+                "Awakening Katakuri",
+                "Kizaru Fujitora",
+                "Gaban Rayleigh",
+                "Kuma the Cleric"
+            ],
+            "winner": 1
         }
     ]
 }
