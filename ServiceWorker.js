@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-op-bets-1.01";
+const cacheName = "DefaultCompany-op-bets-1.02";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js",
